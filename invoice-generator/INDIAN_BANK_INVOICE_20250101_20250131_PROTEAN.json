@@ -1,0 +1,81 @@
+{
+    "Version": "1.1",
+    "TranDtls": {
+        "TaxSch": "GST",
+        "SupTyp": "B2B",
+        "IgstOnIntra": "N",
+        "RegRev": "N",
+        "EcmGstin": null
+    },
+    "DocDtls": {
+        "Typ": "INV",
+        "No": "2024-25/03/0007",
+        "Dt": "02-Dec-25"
+    },
+    "SellerDtls": {
+        "Gstin": "29AAKCR9018A1ZB",
+        "LglNm": "RESERVE BANK INNOVATION HUB",
+        "Addr1": "Regd. Office:- Keonics-K wing, 4th Floor 27th Main, Sector 1,",
+        "Addr2": "7TH Cross Road,HSR Layout",
+        "Loc": "Bengaluru",
+        "Pin": 560102,
+        "Stcd": "29",
+        "Ph": "9986032787",
+        "Em": "swethabelagodu@rbihub.in"
+    },
+    "BuyerDtls": {
+        "Gstin": "33AAACI1607G2Z5",
+        "LglNm": "Indian Bank",
+        "Addr1": "Indian Bank Zonal Office Chennai South, 55 Ethiraj Salai, Egmore, Chennai, 600008, Tamil Nadu, India",
+        "Addr2": "",
+        "Loc": "",
+        "Pin": "",
+        "Pos": "",
+        "Stcd": "",
+        "Ph": "",
+        "Em": ""
+    },
+    "ValDtls": {
+        "AssVal": "5,112.25",
+        "IgstVal": "920",
+        "CgstVal": "0",
+        "SgstVal": "0",
+        "CesVal": 0,
+        "StCesVal": 0,
+        "Discount": 0,
+        "OthChrg": 0,
+        "RndOffAmt": 0,
+        "TotInvVal": "5,112.25"
+    },
+    "RefDtls": {
+        "InvRm": "NICGEPP2.0"
+    },
+    "ItemList": [
+        {
+            "SlNo": "1",
+            "PrdDesc": "Other Information Technology",
+            "IsServc": "Y",
+            "HsnCd": "998319",
+            "Qty": 1,
+            "FreeQty": 0,
+            "Unit": "UNT",
+            "UnitPrice": "5,112.25",
+            "TotAmt": "5,112.25",
+            "Discount": 0,
+            "PreTaxVal": 0,
+            "AssAmt": "5,112.25",
+            "GstRt": 18,
+            "IgstAmt": 920.2049999999999,
+            "CgstAmt": 0.0,
+            "SgstAmt": 0.0,
+            "CesRt": 0,
+            "CesAmt": 0,
+            "CesNonAdvlAmt": 0,
+            "StateCesRt": 0,
+            "StateCesAmt": 0,
+            "StateCesNonAdvlAmt": 0,
+            "OthChrg": 0,
+            "TotItemVal": "6,032"
+        }
+    ]
+}

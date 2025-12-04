@@ -1,0 +1,81 @@
+{
+    "Version": "1.1",
+    "TranDtls": {
+        "TaxSch": "GST",
+        "SupTyp": "B2B",
+        "IgstOnIntra": "N",
+        "RegRev": "N",
+        "EcmGstin": null
+    },
+    "DocDtls": {
+        "Typ": "INV",
+        "No": "2024-25/02/0001",
+        "Dt": "02-Dec-25"
+    },
+    "SellerDtls": {
+        "Gstin": "29AAKCR9018A1ZB",
+        "LglNm": "RESERVE BANK INNOVATION HUB",
+        "Addr1": "Regd. Office:- Keonics-K wing, 4th Floor 27th Main, Sector 1,",
+        "Addr2": "7TH Cross Road,HSR Layout",
+        "Loc": "Bengaluru",
+        "Pin": 560102,
+        "Stcd": "29",
+        "Ph": "9986032787",
+        "Em": "swethabelagodu@rbihub.in"
+    },
+    "BuyerDtls": {
+        "Gstin": "27AAACH2702H1Z0",
+        "LglNm": "HDFC Bank Ltd",
+        "Addr1": "HDFC Bank House, Senapati Bapat Marg, Lower Parel, Mumbai, 400013, Maharashtra, India",
+        "Addr2": "",
+        "Loc": "",
+        "Pin": "",
+        "Pos": "",
+        "Stcd": "",
+        "Ph": "",
+        "Em": ""
+    },
+    "ValDtls": {
+        "AssVal": "2,24,768",
+        "IgstVal": "40,458",
+        "CgstVal": "0",
+        "SgstVal": "0",
+        "CesVal": 0,
+        "StCesVal": 0,
+        "Discount": 0,
+        "OthChrg": 0,
+        "RndOffAmt": 0,
+        "TotInvVal": "2,24,768"
+    },
+    "RefDtls": {
+        "InvRm": "NICGEPP2.0"
+    },
+    "ItemList": [
+        {
+            "SlNo": "1",
+            "PrdDesc": "Other Information Technology",
+            "IsServc": "Y",
+            "HsnCd": "998319",
+            "Qty": 1,
+            "FreeQty": 0,
+            "Unit": "UNT",
+            "UnitPrice": "2,24,768",
+            "TotAmt": "2,24,768",
+            "Discount": 0,
+            "PreTaxVal": 0,
+            "AssAmt": "2,24,768",
+            "GstRt": 18,
+            "IgstAmt": 40458.24,
+            "CgstAmt": 0.0,
+            "SgstAmt": 0.0,
+            "CesRt": 0,
+            "CesAmt": 0,
+            "CesNonAdvlAmt": 0,
+            "StateCesRt": 0,
+            "StateCesAmt": 0,
+            "StateCesNonAdvlAmt": 0,
+            "OthChrg": 0,
+            "TotItemVal": "2,65,226"
+        }
+    ]
+}

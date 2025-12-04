@@ -1,0 +1,16 @@
+reportlab~=4.2.2
+google-auth
+google-api-python-client
+pyzipper~=0.3.6
+PyPDF2~=3.0.1
+num2words~=0.5.13
+pypdftk~=0.5
+pdfminer.six
+tkcalendar~=1.6.1
+Babel~=2.14.0
+prometheus_client~=0.20.0
+pandas~=2.2.2
+requests~=2.32.3
+pytz~=2024.1
+SQLAlchemy~=2.0.31
+pyreportjasper

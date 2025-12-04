@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "invoice-generation-443205",
+  "private_key_id": "60eafd4715eb234d406c70cbd31ca9f06c002f62",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDl7/JUDMcR/rqm\nfrod/cE6aIh4Ejcr9De+wXDnDmr2yBRmgXyTkjUNTn3l5yrfKBeb2jMgYYXM5Wuw\n5uRDlgw1cA8ABkwF/bW4FpmAIJg0bhhlTHxPOU7xppAon2UVqgOS854evrAjCvrr\nzQvR2CeYb++0GusOkeTcYAP348jmlfjiW3WKtmp1Vhs5s5hG1KRZToHMt5gPqVcM\nXZDBLzAMmQw7ulOszkkiVid8ZbDKPu5xr+gA/9nQczgZQ0y7i3eSaqjCSNqYT8Zr\npW2Qlo2dWRzTgtXA8cAa2vktkW5n4wCt3axC/p8VHTBjU0zdDdZEx3F0Y3iRVwVb\n99B+iLUlAgMBAAECggEAB2bMTvBQwb+IlC6k7Xo4BU1M6n1YaudkAMi+Fz7B934R\nSgtsNMPfRhv7HLKh3dt7ukSX1YVnuf5Yk37OZW6OQUCBYYE4yUIvEbHu8JtPMVp2\ns19Dt4Xv7wKeX70ukwTAZxnFQtZ+82HTGewLyVsP5NRIy9KVMzuqOX3NvH9uMOq4\nIKMTTSSEJ/EZH5X0vuku6y+tszsLD5oIsCnXE3Dp4TjtbTi1ViKMmmNaBnqvBRln\naBqHMLVRgIG5aqxIRwhPlWekt6aP3Al6HIQSH33YOg8kXuPM66iOtXCwFvcp+/WU\nMA9xpM99ym13jZLHVa6WQeMSP35W3cJxgENXcAL+MQKBgQD0q96ymmXY9ZX/yNLu\nicQCJl5iotHt7xVYCJ7UB1wx4DQ5LWzJpgu2uRIIIk67oiK8h1bgsV4kHAcymOuR\nkFDIRlJEByE8l1DsPc4IZNzIekOaxmK0uOn2VH/l6MVofYzzunymulxsni4d88nl\nrw0/beD1jUcOlk3+Jl5HyBG9cwKBgQDwlW5mr657Nk2FRbENuQt14rnX8TWTFu5w\nhpfmgkuye6inNMda/GLoNpiIK5lyByYJJy0jEk/9ztMUyrGoUkf1X/5QCqdWPNQq\n5ub+/6e/UuyJYH8YpqyJdaiNuoxq401kgxoj/GjMZRBr3aI+DxeB6OSfgtpniqbf\nd2oyAG+dBwKBgQCChWEipAzq5W/kaKxlheajQvac5cDZje4z7T1VXKvJC5KwYdQj\n6klba3T8E9kubTrcmdI1wUi4OJ96VWttVrBRdnoSQj9vxETuEbZkcfH5nIeN/IDR\nacedmcw0yKzupfNYXcZ7ZvVBGEz/u3qb5XtKuAIG3Bvo4zOt/afT4R3dkwKBgQDD\nIUBJEybekn2voYXoTnTIKZt4VRCR+6BrLg9YC8gfvIJfE8S5vEjwdQ+kKlCrlra3\n58mJT5oHjs/PZlNP5WSt1SzseKeen3mqTlt+6ZaB7F0jU1vif5UjbIXIZkzriO7F\nnjv+ggPx++qkwj+MPCth16ZO5hAEuQV97Fn6sjXU0wKBgQCukYf1EHlKTPT7sUco\nvGOswnX536pJvIRhuQUgm3vg9Q6nbDoWnohSsbitD7ii8Eg6+iVJEpnhDBRAQiO1\nFA596Ztoo19qSe1p/gjdzojo5iBjJtc7HvC9K64omR0EeEbG459kV+AALoOhJlh9\nIinrUjFo+vdA5W3kwTkxKOcUQA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "rbih-invoicing@invoice-generation-443205.iam.gserviceaccount.com",
+  "client_id": "107610383667698083469",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rbih-invoicing%40invoice-generation-443205.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
